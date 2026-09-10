@@ -18,7 +18,6 @@ tecnologia cada vez mais.
 ###
 <p></p>
 <h2 data-importer="text" align="center">Entre em contato:</h2>
-###
 
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="gmail logo"  />
