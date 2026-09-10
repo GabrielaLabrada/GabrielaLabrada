@@ -13,8 +13,8 @@ tecnologia cada vez mais.
 
 
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://stale-bronze-tg1axhpu.edgeone.dev/file.png"  />
+<div data-importer="image" align="center" style="width: 100%;">
+  <img data-importer="image" src="https://stale-bronze-tg1axhpu.edgeone.dev/file.png" style="width: 100%; height: auto; display: block; border-radius: 12px;" alt="Imagem de perfil" />
 </div>
 
 ###
