@@ -16,7 +16,7 @@ tecnologia cada vez mais.
 <h2 data-importer="text" align="center">Entre em contato:</h2>
 
 <div data-importer="socials" align="center">
-  <a href="mailto:glabradadev@gmail.com>"<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="gmail logo"  /></a>
+  <a href="mailto:glabradadev@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="gmail logo"  /></a>
   <a href="www.linkedin.com/in/gabrielalabrada"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="linkedin logo"  /></a>
 </div>
 
