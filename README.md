@@ -11,12 +11,26 @@ estou cursando ensino superior em engenharia de software na FIAP Paulista.
 Adoro aprender coisas novas e busco expandir meus conhecimentos em 
 tecnologia cada vez mais.
 
+
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://stale-bronze-tg1axhpu.edgeone.dev/file.png"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="center">Entre em contato:</h2>
+
 ###
 
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="linkedin logo"  />
 </div>
+
+###
+
+<h2 data-importer="text" align="center">Tecnologias:</h2>
 
 ###
 
@@ -51,6 +65,10 @@ tecnologia cada vez mais.
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="docker logo"  />
 </div>
+
+###
+
+<h2 data-importer="text" align="center">Contribuições:</h2>
 
 ###
 
