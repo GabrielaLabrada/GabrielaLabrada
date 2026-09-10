@@ -5,17 +5,15 @@
 # 👩🏻‍💻 Gabriela Labrada
 **`Software Engineering Student`**
 
+<div data-importer="image" align="center" style="width: 100%;">
+  <img data-importer="image" src="https://stale-bronze-tg1axhpu.edgeone.dev/file.png" style="width: 100%; height: auto; display: block; border-radius: 12px;" alt="Imagem de perfil" />
+</div>
+
 Me chamo Gabriela Labrada e tenho 18 anos. Conclui o ensino médio no SESI, 
 com o curso técnico em desenvolvimento de sistemas no SENAI. Atualmente 
 estou cursando ensino superior em engenharia de software na FIAP Paulista.
 Adoro aprender coisas novas e busco expandir meus conhecimentos em 
 tecnologia cada vez mais.
-
-
-
-<div data-importer="image" align="center" style="width: 100%;">
-  <img data-importer="image" src="https://stale-bronze-tg1axhpu.edgeone.dev/file.png" style="width: 100%; height: auto; display: block; border-radius: 12px;" alt="Imagem de perfil" />
-</div>
 
 ###
 
